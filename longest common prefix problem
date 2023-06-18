@@ -11,4 +11,4 @@ for s in strs[1:]:
         plen-=1
         if plen==0:
             print("")
-print(pref) 
+print(pref)
